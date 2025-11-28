@@ -14,6 +14,24 @@ This project is a powerful, parallelized web scraper designed to extract detaile
 
 *This section will be updated automatically by a script.*
 
+---
+
+## 🚀 The Project Journey
+
+This project was a multi-stage data engineering challenge, executed in three distinct phases to gather a comprehensive dataset of over 290,000 Etsy listings.
+
+### Phase 1: The Seed - 335 Core Categories
+
+The journey began with a foundational list of 335 primary Etsy categories. This initial dataset was the seed from which the entire project would grow, providing the top-level structure of Etsy's marketplace.
+
+### Phase 2: Branching Out - Discovering Sub-Categories
+
+From the initial 335 categories, a specialized scraper was deployed to recursively discover and map out the entire sub-category tree. This crucial phase expanded our scope, revealing the thousands of niche marketplaces hidden within the main categories and providing the pathways to the individual product listings.
+
+### Phase 3: The Harvest - Scraping 290,000+ Listings
+
+With the complete category map in hand, the final and most intensive phase began. A powerful, parallelized scraper was launched to systematically work through each sub-category and scrape the top listings. This large-scale operation is what is currently in progress, harvesting the rich, detailed data for over 290,000 individual products.
+
 ## ✨ Features
 
 - **Parallel Processing**: Runs multiple scraper workers simultaneously to maximize speed.
