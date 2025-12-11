@@ -9,7 +9,7 @@ This project is a powerful, parallelized web scraper designed to extract detaile
 | Metric                | Status                                                                                                             |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Progress**          | ![Progress](https://progress-bar.dev/0/?title=Scraped)                                                            |
-| **Listings Scraped**  | `240,674 / 290,708`                                                                                                |
+| **Listings Scraped**  | `245,153 / 290,708`                                                                                                |
 | **Database Status**   | `Online`                                                                                                           |
 
 *This section will be updated automatically by a script.*
